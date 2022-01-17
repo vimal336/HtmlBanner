@@ -29,7 +29,7 @@ function startAnim() {
 
 setTimeout(function () {
 
-  document.getElementById("text3").style.transform = 'translateX(0px)';
+  document.getElementById("text3").style.transform = 'translateY(0px)';
   document.getElementById("text3").style.opacity = '1';
   document.getElementById("text3").style.transition = 'all 0.5s ease-out';
 }, 1600);
