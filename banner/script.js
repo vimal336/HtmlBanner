@@ -1,4 +1,10 @@
 function startAnim() {
+
+  setTimeout(function () {
+    document.getElementById("Logo").style.opacity = "1";
+    document.getElementById("Logo").style.transition = "all 0.5 ease";
+  }, 500);
+
   setTimeout(function () {
     document.getElementById("text1").style.opacity = "1";
     document.getElementById("text1").style.transition = "all 0.5 ease";
