@@ -29,9 +29,9 @@ function startAnim(){
     anim.to("#circle", 0.5, { rotation:-360, opacity:1, ease:Power1.easeOut}, startTime);
 
     startTime += 0.5;
-    anim.to("#bottom", 0.5, { scale:1.4, ease:Power2.easeOut}, startTime);
+    anim.to("#button", 0.5, { scale:1.4, ease:Power2.easeOut}, startTime);
     startTime += 0.4;
-    anim.to("#bottom", 0.5, { scale:1, ease:Power2.easeOut}, startTime);
+    anim.to("#button", 0.5, { scale:1, ease:Power2.easeOut}, startTime);
 }
 
 

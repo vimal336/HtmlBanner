@@ -58,7 +58,7 @@ body{
     height: 90px;
     opacity: 0;
 }
-#bottom{
+#button{
     position: absolute;
     bottom: 54px;
     right: 14px;
