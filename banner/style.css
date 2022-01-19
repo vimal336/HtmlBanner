@@ -126,17 +126,19 @@ height: auto;
 
 #cta{
 
-position: absolute;
-right: 35px;
-top: 158px;
-width: 109px;
-height: 29px;
-padding: 2px 16px;
-font-size: 16px;
-letter-spacing: -1.1px;
-color: #fff;
-background-color: #86753f;
-border-radius: 11px;
+    position: absolute;
+    right: 35px;
+    top: 160px;
+    width: 108px;
+    height: 28px;
+    padding: 0px 10px;
+    font-size: 12px;
+    letter-spacing: -0.4px;
+    color: #fff;
+    background-color: #86753f;
+    border-radius: 8px;
+    line-height: 28px;
+    text-align: center;
 }
 
 #url{
